@@ -6,8 +6,9 @@ Pour ce faire, nous connectons 4 capteurs à la carte Nucleo LK32KC :
   - un capteur d'humidité et de température ambiante DHT22 de gotronic,
   - une sonde de température analogique DS1820,
   - et un capteur d'humidité Grove - Moisture Sensor de Seeed Studio
+
 Les mesures sont faites toutes les 10 min et sont mis en réseau via une Sigfox TD1208. Ils sont récupérables comme dit plus haut sur le site Actobard.com
 A cette Nucleo sera aussi branché un écran OLED Display 128x64 qui affichera en permanence les dernières valeurs récupérées.
-Enfin, il sera énergétiquement autonome 
+Enfin, l'ensemble sera énergétiquement autonome à l'aide d'une cellule photovoltaïque et d'une batterie de 1.5Ah. Ceux-ci sont branchés au microcontrolleur via un LiPo Rider Pro de Seeed Studio.
 
 
