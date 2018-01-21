@@ -1,20 +1,20 @@
 # Greenhouse_project
-Ce projet propose de monitorer la température, la luminosité et l'humidité ambiante, ainsi que la température et l'humidité de la terre d'une serre. Il propose aussi de mettre ces mesures en réseau et de les lire via le site web Actoboard.com
+This project proposes to monitor the temperature, luminosity et humidity of the air, as well as the temperature et humidity of the grove. It proposes too to network this measures which are so readable on the website Actoborad.com
 
-Pour ce faire, nous connectons 4 capteurs à la carte Nucleo-LK32KC :
-  - un capteur de luminosité numérique TSL2561 d'Adafruit,
-  - un capteur d'humidité et de température ambiante DHT22 de gotronic,
-  - une sonde de température analogique DS1820,
-  - et un capteur d'humidité Grove - Moisture Sensor de Seeed Studio
+To do, we connect 4 sensors to the Nucleo microcontroller L432KC :
+  - a luminosity sensor TLS2561 by Adafruit ;
+  - a humidity and temperature sensor DHT22 by Gotronic ;
+  - a tempearture probe DS1820 ;
+  - a humidity sensor Grove - Moisture sensor by Seeed Studio
+  
+  Measurerrs are done each 10 minutes and are networked via a Breakout TD1208 by Sigfox. As said higher, this one are readable on the website Actoboard.com
+On this microcontroller is also plugged an OLED Display 128x64 screen which will permanently display the last measures done.
+Finally, the system is electrically self-sufficent thanks to a 8x20cm photovoltaïc cell and a 1.5Ah battery. They are connected to the Nulceo with a LiPo Rider Pro by Seeed Studio.
+The system is put in a 3D printed box.
 
-Les mesures sont faites toutes les 10 minutes et sont mis en réseau via un Breakout TD1208 de Sigfox. Ils sont récupérables comme dit plus haut sur le site Actobard.com
-À cette Nucleo sera aussi branché un écran OLED Display 128x64 qui affichera en permanence les dernières valeurs récupérées.
-Enfin, l'ensemble sera énergiquement autonome à l'aide d'une cellule photovoltaïque de 8x20 cm et d'une batterie de 1.5Ah. Ceux-ci sont branchés au microcontrôleur via un LiPo Rider Pro de Seeed Studio.
-Le tout sera mis dans un boitier imprimé 3D. 
-
-En voici donc le schéma synoptique :
+Here is the synoptic of the project :
 ![alt tag](https://user-images.githubusercontent.com/22792781/35197159-e7b649e0-fedb-11e7-82ea-f0fbacf0a8a4.png)
 
-Voici le code compilé via os.mbed.com dans notre Nucleo :
-
+The code compiled in the microcontroller via os.mbed.com is named 'main.cpp'.
+The used libraries are in the repository 'libraries'.
 
