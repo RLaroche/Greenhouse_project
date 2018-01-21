@@ -1,5 +1,5 @@
 # Greenhouse_project
-This project proposes to monitor the temperature, luminosity et humidity of the air, as well as the temperature et humidity of the grove. It proposes too to network this measures which are so readable on the website Actoborad.com
+This project proposes to monitor the air temperature, luminosity and humidity, as well as grove temperature and humidity. It proposes too to network this measures which are so readable on the website Actoborad.com
 
 To do, we connect 4 sensors to the Nucleo microcontroller L432KC :
   - a luminosity sensor TLS2561 by Adafruit ;
