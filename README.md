@@ -7,7 +7,7 @@ To do, we connect 4 sensors to the Nucleo microcontroller L432KC :
   - a tempearture probe DS1820 ;
   - a humidity sensor Grove - Moisture sensor by Seeed Studio
   
-  Measurerrs are done each 10 minutes and are networked via a Breakout TD1208 by Sigfox. As said higher, this one are readable on the website Actoboard.com
+  Measures are done each 10 minutes and are networked via a Breakout TD1208 by Sigfox. As said higher, this one are readable on the website Actoboard.com
 On this microcontroller is also plugged an OLED Display 128x64 screen which will permanently display the last measures done.
 Finally, the system is electrically self-sufficent thanks to a 8x20cm photovoltaïc cell and a 1.5Ah battery. They are connected to the Nulceo with a LiPo Rider Pro by Seeed Studio.
 The system is put in a 3D printed box.
