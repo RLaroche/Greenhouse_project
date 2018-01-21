@@ -13,6 +13,6 @@ Enfin, l'ensemble sera énergiquement autonome à l'aide d'une cellule photovolt
 Le tout sera mis dans un boitier imprimé 3D. 
 
 En voici donc le schéma synoptique :
-![alt tag]()
+![alt tag](https://user-images.githubusercontent.com/22792781/35197112-69e54f66-fedb-11e7-9827-eaaba2fe2d15.png)
 
 
