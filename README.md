@@ -1,7 +1,7 @@
 # Greenhouse_project
 Ce projet propose de monitorer la température, la luminosité et l'humidité ambiante, ainsi que la température et l'humidité de la terre d'une serre. Il propose aussi de mettre ces mesures en réseau et de les lire via le site web Actoboard.com
 
-Pour ce faire, nous connectons 4 capteurs à la carte Nucleo LK32KC :
+Pour ce faire, nous connectons 4 capteurs à la carte Nucleo-LK32KC :
   - un capteur de luminosité numérique TSL2561 d'Adafruit,
   - un capteur d'humidité et de température ambiante DHT22 de gotronic,
   - une sonde de température analogique DS1820,
@@ -14,5 +14,7 @@ Le tout sera mis dans un boitier imprimé 3D.
 
 En voici donc le schéma synoptique :
 ![alt tag](https://user-images.githubusercontent.com/22792781/35197159-e7b649e0-fedb-11e7-82ea-f0fbacf0a8a4.png)
+
+Voici le code compilé via os.mbed.com dans notre Nucleo :
 
 
