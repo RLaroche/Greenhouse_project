@@ -1,10 +1,10 @@
 Let's start the PCB part ! 
 
 Nous avons eu de nombreux soucis pour une étape qui ne nous semblaient pas devoir prendre autant de temps que cela a été. 
-Première erreur : ne pas avoir sauvegarder à plusieurs endroits le PCB. 
+Première erreur : ne pas avoir sauvegardé à plusieurs endroits le PCB. 
 En effet, le premier PCB réalisé a été porté disparu lorsque la clé USB le comprenant a rendu l'âme. 
 Du coup, il a fallu retrouver l'énergie nécessaire pour affronter ce casse-tête nécessaire à l'industrialisation de notre projet.
-Petit détails qui reste important, il fallait que les connexions soient toutes sur le côtés bottom du PCB et qu'on établisse un plan de masse ce qui a pour but de relier tout les GROUND des composants entre eux.
+Petit détails qui restent important, il fallait que les connexions soient toutes sur le côté bottom du PCB et qu'on établisse un plan de masse ce qui a pour but de relier tous les GROUND des composants entre eux.
 
 Une fois le courage retrouvé on refait le schéma electronique sur ALTIUM que l'on peut voir ci-desous :
 
