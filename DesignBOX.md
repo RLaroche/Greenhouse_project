@@ -13,5 +13,11 @@ Voici la boite principale :
 ![alt tag](https://user-images.githubusercontent.com/35667679/35531490-71fbe3ba-0537-11e8-9864-bb478fc39888.PNG)
 
 Il faut une partie pour acceuillir le panneau photovoltaïque et pouvoir connecter le panneau à la carte LIPO.
+
 Voici le résultat :
 ![alt tag](https://user-images.githubusercontent.com/35667679/35531776-4ddafa2e-0538-11e8-8831-26dc84bb5c5b.PNG)
+
+Il faut maitenant pouvoir fermer cette wonderful box ! 
+
+Voici le couvercle adapté : 
+![alt tag](https://user-images.githubusercontent.com/35667679/35532142-7ca3a53a-0539-11e8-80ba-907d11b666de.PNG)
