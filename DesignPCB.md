@@ -28,8 +28,7 @@ Zoom it in a little closer:
 ![alt tag](https://user-images.githubusercontent.com/35667679/35529344-0fe1cc9a-0531-11e8-84b0-87f097b13db4.PNG)
 
 We see that on the map on the right on which the PCB is based on an SDA connection on D7 and an SCL on D8 (exactly what we need).
+However when we tested with the components we did not understand the inconsistency of the information received, and suddenly when we looked again the documentation on the second documentation we notice that there is no specificity on D7 and D8.
 
-Cependant lorsqu'on a testé avec les composant on ne comprenais pas l'incohérence des informations reçues, et du coup quand on a regardé à nouveau la documentation sur la deuxième documentation on remarque qu'il n'y a pas de spécificité sur D7 et D8. 
-
-Résultat : notre montage sur le breadbord  fonctionnait très bien avant d'avoir adapté les connexions sur le PCB pour faciliter le routage.
-Mais une fois sur le PCB non adapté on arrive a recevoir les informations malgré tout de tout les capteurs sauf du light sensor dans cette version.
+As a result, our breadmaking works very well before adapting the connections on the PCB for easy routing.
+But once on the PCB not modified we get to receive the information despite all the sensors except the light sensor in this version.
