@@ -10,5 +10,4 @@ On imagine une première boite qui contiendra le PCB, tout les capteurs, l'écra
 Voici la boite principale : 
 
 ![alt tag](https://user-images.githubusercontent.com/35667679/35530665-0abfb5c0-0535-11e8-995c-07c20b71ea93.PNG)
-![alt tag](https://user-images.githubusercontent.com/35667679/35531146-739ffcfc-0536-11e8-99f4-a05d7fd0a42f.PNG)
 ![alt tag](https://user-images.githubusercontent.com/35667679/35531490-71fbe3ba-0537-11e8-9864-bb478fc39888.PNG)
