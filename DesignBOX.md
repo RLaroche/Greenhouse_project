@@ -37,6 +37,9 @@ Pour aller encore plus loin, nous avons pensé à incorporer le module photovolt
 Voici donc la deuxième version de la porte coulissante avec la possibilité de clipser le module photovolta¨que précédement présenté : 
 ![alt tag](https://user-images.githubusercontent.com/35667679/35532694-610a4d86-053b-11e8-8ecc-6396fa2b6ee1.PNG)
 
+Voici quand on l'ajoute sur notre merveilleuse boite qui a déjà son superbe couvercle :
+![alt tag](https://user-images.githubusercontent.com/35667679/35533053-98336fbc-053c-11e8-9b01-ee953cce95c7.PNG)
+
 
 Vous êtes un peu perdu ? 
 Laissez nous donc vous montrer quel est l'état final de cette boite magique ! 
