@@ -17,6 +17,7 @@ On constate que la branche gauche de la carte NUCLEO est inversé. On peut d'ail
 Il a fallu repprendre ses esprits, recommencer encore pour la 3ème fois un PCB d'urgence en faisant attention à toutes les connexions.
 
 Hallelujah le PCB est créé, on peut le voir sur l'image ci-dessous :
+
 ![alt tag](https://user-images.githubusercontent.com/35667679/35523963-5b6e9596-0520-11e8-8cb2-76283c936e0f.PNG)
 
 Tout était parfait, les soudures faites par Mr SamSmile était d'une beauté incomparable.
@@ -27,3 +28,5 @@ Zoomons d'un peu plus près :
 ![alt tag](https://user-images.githubusercontent.com/35667679/35529344-0fe1cc9a-0531-11e8-84b0-87f097b13db4.PNG)
 
 On constate que sur la carte à droite sur laquelle le PCB s'est basé a bien une connexion SDA sur D7 et une SCL sur D8 (exactement ce qu'il nous faut). Cependant lorsqu'on a testé avec les composant on ne comprenais pas l'incohérence des informations reçues, et du coup quand on a regardé à nouveau la documentation sur la deuxième documentation on remarque qu'il n'y a pas de spécificité sur D7 et D8. 
+
+Résultat : notre montage sur le breadbord avant d'avoir adapté
