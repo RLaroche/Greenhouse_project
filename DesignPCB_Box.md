@@ -24,4 +24,6 @@ Trop beau pour être vrai ? En effet, un seul et unique hic :
 ![alt tag](https://user-images.githubusercontent.com/35667679/35528845-7263465c-052f-11e8-9565-026f43d3c3fb.PNG)
 
 Zoomons d'un peu plus près : 
+![alt tag](https://user-images.githubusercontent.com/35667679/35529344-0fe1cc9a-0531-11e8-84b0-87f097b13db4.PNG)
+
 On constate que sur la carte à droite sur laquelle le PCB s'est basé a bien une connexion SDA sur D7 et une SCL sur D8 (exactement ce qu'il nous faut). Cependant lorsqu'on a testé avec les composant on ne comprenais pas l'incohérence des informations reçues, et du coup quand on a regardé à nouveau la documentation sur la deuxième documentation on remarque qu'il n'y a pas de spécificité sur D7 et D8. 
