@@ -18,9 +18,9 @@ We need a part to accommodate the photovoltaic panel and connect the panel to th
 Here is the result :
 ![alt tag](https://user-images.githubusercontent.com/35667679/35531776-4ddafa2e-0538-11e8-8831-26dc84bb5c5b.PNG)
 
-Il faut maitenant pouvoir fermer cette wonderful box ! 
+We must be able to close this wonderful box!
 
-Voici le couvercle adapté : 
+Here is the adapted lid:
 ![alt tag](https://user-images.githubusercontent.com/35667679/35532142-7ca3a53a-0539-11e8-80ba-907d11b666de.PNG)
 
 Comme on le voit, il s'agit d'un couvercle qui a des dents qui vienne à l'intérieur de la boite principale pour une meilleure stabilité. 
