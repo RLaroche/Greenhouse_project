@@ -21,3 +21,10 @@ Il faut maitenant pouvoir fermer cette wonderful box !
 
 Voici le couvercle adapté : 
 ![alt tag](https://user-images.githubusercontent.com/35667679/35532142-7ca3a53a-0539-11e8-80ba-907d11b666de.PNG)
+
+Comme on le voit, il s'agit d'un couvercle qui a des dents qui vienne à l'intérieur de la boite principale pour une meilleure stabilité. 
+
+Pour gagner en résistance on ajoute une porte coulissante qui vient s'introduire dans la boite mais aussi dans le couvercle ce qui maintient les deux parties de façon rigoureuse et offre une fiabilité quand à la sécurité des composant sy trouvant.
+
+Voici la première version de porte coulissante :
+![alt tag](https://user-images.githubusercontent.com/35667679/35532142-7ca3a53a-0539-11e8-80ba-907d11b666de.PNG)
