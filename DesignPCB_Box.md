@@ -18,3 +18,10 @@ Il a fallu repprendre ses esprits, recommencer encore pour la 3ème fois un PCB 
 
 Hallelujah le PCB est créé, on peut le voir sur l'image ci-dessous :
 ![alt tag](https://user-images.githubusercontent.com/35667679/35523963-5b6e9596-0520-11e8-8cb2-76283c936e0f.PNG)
+
+Tout était parfait, les soudures faites par Mr SamSmile était d'une beauté incomparable.
+Trop beau pour être vrai ? En effet, un seul et unique hic : 
+![alt tag](https://user-images.githubusercontent.com/35667679/35528845-7263465c-052f-11e8-9565-026f43d3c3fb.PNG)
+
+Zoomons d'un peu plus près : 
+On constate que sur la carte à droite sur laquelle le PCB s'est basé a bien une connexion SDA sur D7 et une SCL sur D8 (exactement ce qu'il nous faut). Cependant lorsqu'on a testé avec les composant on ne comprenais pas l'incohérence des informations reçues, et du coup quand on a regardé à nouveau la documentation sur la deuxième documentation on remarque qu'il n'y a pas de spécificité sur D7 et D8. 
