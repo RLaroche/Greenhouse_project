@@ -24,6 +24,9 @@ Voici le couvercle adapté :
 
 Comme on le voit, il s'agit d'un couvercle qui a des dents qui vienne à l'intérieur de la boite principale pour une meilleure stabilité. 
 
+Voici quand on l'ajoute sur notre merveilleuse boite :
+![alt tag](https://user-images.githubusercontent.com/35667679/35532888-0e64d7ee-053c-11e8-90fd-a888de07c977.PNG)
+
 Pour gagner en résistance on ajoute une porte coulissante qui vient s'introduire dans la boite mais aussi dans le couvercle ce qui maintient les deux parties de façon rigoureuse et offre une fiabilité quand à la sécurité des composant sy trouvant.
 
 Voici la première version de porte coulissante :
@@ -33,3 +36,7 @@ Pour aller encore plus loin, nous avons pensé à incorporer le module photovolt
 
 Voici donc la deuxième version de la porte coulissante avec la possibilité de clipser le module photovolta¨que précédement présenté : 
 ![alt tag](https://user-images.githubusercontent.com/35667679/35532694-610a4d86-053b-11e8-8ecc-6396fa2b6ee1.PNG)
+
+
+Vous êtes un peu perdu ? 
+Laissez nous donc vous montrer quel est l'état final de cette boite magique ! 
