@@ -1,21 +1,21 @@
 Let's start the 3D design part !
 
-Ici nous expliquons la partie design 3D de la boite pour acceuillir notre système complet.
-Elle a pris énormément de temps et vous allez comprendre pour quoi.
+Here we explain the 3D design part of the box to welcome our complete system.
+She took a lot of time and you will understand why.
 
-Résumons : Nous devons pouvoir contenir dans notre boite le PCB et tout ses composants associés. 
-C'est-à-dire penser à l'écran LCD mais aussi tout les capteurs en prévoyant un espace propre à chacun pour qu'ils puissent être utilisable et efficace dans leurs mesures. De plus, il faut aussi la partie alimentation avec sa carte LIPO qui est connecté à une batterie ainsi qu'à un panneau photovoltaïque qui rend notre système autonome. 
+To summarize: We must be able to contain in our box the PCB and all its associated components.
+That is to say, think of the LCD screen but also all sensors by providing a space for each of them so that they can be usable and effective in their measurements. In addition, it also requires the power supply with its LIPO card which is connected to a battery and a photovoltaic panel that makes our system autonomous.
 
-On imagine une première boite qui contiendra le PCB, tout les capteurs, l'écran ainsi que la carte LIPO connecté à la batterie. Il faut bien évidement prévoir une place spécifique pour l'écran LCD, le light sensors (si il est caché ou sur le coté il ne recevra pas la lumière réelle), pour le capteur de température, pour le DHT22 il faut qu'il puisse mesurer la valeur la proche de la plante et sans oublier le grove moisture qui doit avoir un contact avec la terre direct. On oublie pas le trou pour faire connceter l'antenne au module sigfox et un autre trou pour faire passer les fils du panneaux photovoltaïque jusqu'à la carte LIPO.
+We imagine a first box that will contain the PCB, all the sensors, the screen and the LIPO card connected to the battery. It is obviously necessary to foresee a specific place for the LCD screen, the light sensor (if it is hidden or on the side it will not receive the real light), for the temperature sensor, for the DHT22 it is necessary that it can measure the value close to the plant and without forgetting the grove moisture sensor which must have a contact with the direct earth. We do not forget the hole to connect the antenna to the module sigfox and another hole to pass the son of the photovoltaic panels to the map LIPO.
 
-Voici la boite principale : 
+Here is the main box: 
 
 ![alt tag](https://user-images.githubusercontent.com/35667679/35530665-0abfb5c0-0535-11e8-995c-07c20b71ea93.PNG)
 ![alt tag](https://user-images.githubusercontent.com/35667679/35531490-71fbe3ba-0537-11e8-9864-bb478fc39888.PNG)
 
-Il faut une partie pour acceuillir le panneau photovoltaïque et pouvoir connecter le panneau à la carte LIPO.
+We need a part to accommodate the photovoltaic panel and connect the panel to the LIPO board.
 
-Voici le résultat :
+Here is the result :
 ![alt tag](https://user-images.githubusercontent.com/35667679/35531776-4ddafa2e-0538-11e8-8831-26dc84bb5c5b.PNG)
 
 Il faut maitenant pouvoir fermer cette wonderful box ! 
