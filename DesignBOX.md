@@ -43,3 +43,5 @@ Voici quand on l'ajoute sur notre merveilleuse boite qui a déjà son superbe co
 
 Vous êtes un peu perdu ? 
 Laissez nous donc vous montrer quel est l'état final de cette boite magique ! 
+
+![alt tag](https://user-images.githubusercontent.com/35667679/35533332-77cc3dd4-053d-11e8-9642-d9f829506e56.PNG)
