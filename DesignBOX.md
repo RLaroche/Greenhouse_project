@@ -28,3 +28,8 @@ Pour gagner en résistance on ajoute une porte coulissante qui vient s'introduir
 
 Voici la première version de porte coulissante :
 ![alt tag](https://user-images.githubusercontent.com/35667679/35532371-4f1e9862-053a-11e8-88d3-3174d1138ba3.PNG)
+
+Pour aller encore plus loin, nous avons pensé à incorporer le module photovoltaïque à la boite principale, pour qu'il soit au même niveau que light sensor et sa position stratégique et pour qu'on sente bien que le système autonome est bien quelque chose d'uni. 
+
+Voici donc la deuxième version de la porte coulissante avec la possibilité de clipser le module photovolta¨que précédement présenté : 
+![alt tag](https://user-images.githubusercontent.com/35667679/35532694-610a4d86-053b-11e8-8ecc-6396fa2b6ee1.PNG)
