@@ -29,4 +29,4 @@ Zoomons d'un peu plus près :
 
 On constate que sur la carte à droite sur laquelle le PCB s'est basé a bien une connexion SDA sur D7 et une SCL sur D8 (exactement ce qu'il nous faut). Cependant lorsqu'on a testé avec les composant on ne comprenais pas l'incohérence des informations reçues, et du coup quand on a regardé à nouveau la documentation sur la deuxième documentation on remarque qu'il n'y a pas de spécificité sur D7 et D8. 
 
-Résultat : notre montage sur le breadbord avant d'avoir adapté
+Résultat : notre montage sur le breadbord  fonctionnait très bien avant d'avoir adapté les connexions sur le PCB pour faciliter le routage.
