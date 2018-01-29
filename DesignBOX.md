@@ -1,6 +1,7 @@
 Let's start the 3D design part !
 
-Ici nous expliquons la partie design 3D de la boite pour acceuillir notre système complet. 
+Ici nous expliquons la partie design 3D de la boite pour acceuillir notre système complet.
+Elle a pris énormément de temps et vous allez comprendre pour quoi.
 
 Résumons : Nous devons pouvoir contenir dans notre boite le PCB et tout ses composants associés. 
 C'est-à-dire penser à l'écran LCD mais aussi tout les capteurs en prévoyant un espace propre à chacun pour qu'ils puissent être utilisable et efficace dans leurs mesures. De plus, il faut aussi la partie alimentation avec sa carte LIPO qui est connecté à une batterie ainsi qu'à un panneau photovoltaïque qui rend notre système autonome. 
@@ -45,3 +46,8 @@ Vous êtes un peu perdu ?
 Laissez nous donc vous montrer quel est l'état final de cette boite magique ! 
 
 ![alt tag](https://user-images.githubusercontent.com/35667679/35533332-77cc3dd4-053d-11e8-9642-d9f829506e56.PNG)
+
+So beautiful :
+![alt tag](https://user-images.githubusercontent.com/35667679/35533405-b8da5374-053d-11e8-9421-3c88a7efa94d.PNG)
+
+(Dommaque que l'on a pas pu l'imprimer pour l'instant grâce à l'imprimante 3D car on m'a demandé de la robustesse, chose que j'ai fais, mais il faut croire que j'en ai un peu trop fait, l'épaisseur étant supérieur à 4mm je n'ai pas pu l'imprimer. too sad)... Mais il n'est pas trop tard =D
