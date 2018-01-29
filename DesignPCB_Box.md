@@ -10,6 +10,11 @@ Une fois le courage retrouvé on refait le schéma electronique sur ALTIUM que l
 
 ![alt tag](https://user-images.githubusercontent.com/35667679/35527856-60283a2c-052c-11e8-90d4-06787587e1f4.PNG)
 
+On y retrouve bien les quatres capteurs, la carte Nucléo, le module Sigfox ainsi que l'écran LCD.
 
+On bascule sur la partie PCB, on y passe du temps, on la fini avec un seul coté utilisé, on essaie de l'imprimer car même avec l'aide de l'ingénieur responsable de l'impression la machine fait des siennes. Une fois imprimé on là test ... et là c'est le drame. 
+On constate que la branche gauche de la carte NUCLEO est inversé. On peut d'ailleurs le remarquer en regarder le schéma électronique ci-dessus. La branche NUCLEO gauche va de 1 à 15 en commençant par le haut, alors que la branche de droite va de 15 à 1 en partant du haut également. Ce qui fait que rien ne fonctionne. 
+Il a fallu repprendre ses esprits, recommencer encore pour la 3ème fois un PCB d'urgence en faisant attention à toutes les connexions.
 
+Hallelujah le PCB est créé, on peut le voir sur l'image ci-dessous :
 ![alt tag](https://user-images.githubusercontent.com/35667679/35523963-5b6e9596-0520-11e8-8cb2-76283c936e0f.PNG)
