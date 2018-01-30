@@ -16,5 +16,6 @@ Here is the synoptic of the project :
 ![alt tag](https://user-images.githubusercontent.com/22792781/35197159-e7b649e0-fedb-11e7-82ea-f0fbacf0a8a4.png)
 
 The code compiled in the microcontroller via os.mbed.com is named 'main.cpp'.
-The used libraries are in the repository 'libraries'.
+The used libraries are available in the followed link, what is our project mbed:
+https://cricbis@os.mbed.com/teams/Green-Team/code/greenhouse_proj/
 
