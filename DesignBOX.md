@@ -23,31 +23,31 @@ We must be able to close this wonderful box!
 Here is the adapted lid:
 ![alt tag](https://user-images.githubusercontent.com/35667679/35532142-7ca3a53a-0539-11e8-80ba-907d11b666de.PNG)
 
-Comme on le voit, il s'agit d'un couvercle qui a des dents qui vienne à l'intérieur de la boite principale pour une meilleure stabilité. 
+As we can see, this is a lid that has teeth that come inside the main box for better stability.
 
-Voici quand on l'ajoute sur notre merveilleuse boite :
+Here is when we add it on our wonderful box:
 ![alt tag](https://user-images.githubusercontent.com/35667679/35532888-0e64d7ee-053c-11e8-90fd-a888de07c977.PNG)
 
-Pour gagner en résistance on ajoute une porte coulissante qui vient s'introduire dans la boite mais aussi dans le couvercle ce qui maintient les deux parties de façon rigoureuse et offre une fiabilité quand à la sécurité des composant sy trouvant.
+To gain resistance is added a sliding door which is introduced in the box but also in the lid which holds the two parts in a rigorous manner and provides reliability and of the security of components inside.
 
-Voici la première version de porte coulissante :
+Here is the first version of sliding door:
 ![alt tag](https://user-images.githubusercontent.com/35667679/35532371-4f1e9862-053a-11e8-88d3-3174d1138ba3.PNG)
 
-Pour aller encore plus loin, nous avons pensé à incorporer le module photovoltaïque à la boite principale, pour qu'il soit au même niveau que light sensor et sa position stratégique et pour qu'on sente bien que le système autonome est bien quelque chose d'uni. 
+To go even further, we thought to incorporate the photovoltaic module to the main box, so that it is at the same level as light sensor and its strategic position and to feel that the autonomous system is something of 'United.
 
-Voici donc la deuxième version de la porte coulissante avec la possibilité de clipser le module photovolta¨que précédement présenté : 
+Here is the second version of the sliding door with the possibility to clip the photovoltaic module previously presented:
 ![alt tag](https://user-images.githubusercontent.com/35667679/35532694-610a4d86-053b-11e8-8ecc-6396fa2b6ee1.PNG)
 
-Voici quand on l'ajoute sur notre merveilleuse boite qui a déjà son superbe couvercle :
+Here is when we add it on our wonderful box which already has its superb lid:
 ![alt tag](https://user-images.githubusercontent.com/35667679/35533053-98336fbc-053c-11e8-9b01-ee953cce95c7.PNG)
 
 
-Vous êtes un peu perdu ? 
-Laissez nous donc vous montrer quel est l'état final de cette boite magique ! 
+You're a little lost ?
+Let us show you what is the final state of this magic box!
 
 ![alt tag](https://user-images.githubusercontent.com/35667679/35533332-77cc3dd4-053d-11e8-9642-d9f829506e56.PNG)
 
-(Dommaque que l'on a pas pu l'imprimer pour l'instant grâce à l'imprimante 3D car on m'a demandé de la robustesse, chose que j'ai fais, mais il faut croire que j'en ai un peu trop fait, l'épaisseur étant supérieur à 4mm je n'ai pas pu l'imprimer. too sad)... Mais il n'est pas trop tard ne serait-ce que pour le plaisir =D
+(Damage that we could not print it for now thanks to the 3D printer because I was asked for robustness, something I did, but I must believe that I have a little too much, in fact of the thickness being greater than 4mm , so I was not able to print it because would took to much material, too sad) ... But it is not too late for print it, at least if only for pleasure = D
 
 So beautiful :
 ![alt tag](https://user-images.githubusercontent.com/35667679/35533405-b8da5374-053d-11e8-9421-3c88a7efa94d.PNG)
